@@ -1,0 +1,63 @@
+.main {
+	margin-top:50px;
+}
+
+body {
+	font-family: Muli,'Helvetica Neue','Hiragino Sans GB',
+				'WenQuanYi Micro Hei','Microsoft Yahei',
+				sans-serif !important;
+}
+#bookIdInput {
+	width: 40%;
+	
+}
+
+#bookId {
+	height: 20px;
+    width: 80px;
+    margin-top: 8px;
+}
+
+#bookIdType {
+	margin-left: 24px;
+}
+.outing {
+	text-align: center;
+	padding-top: 15%;
+	padding-left: 10%
+}
+
+.inner {
+	margin-left: 25%;
+	width: 30%;
+	float: left;
+	text-align: center;
+}
+
+#radios {
+	margin-left: 35%;
+	text-align: left;
+	margin-top: 20px;
+}
+
+.form-group {
+	margin-top: 50px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	border:1px solid #008CFF;
+	border-bottom-width: 3px;
+	border-radius: 20px;
+	box-shadow: 0px 10px 5px #888888;
+	-moz-box-shadow: 0px 10px 5px #888888;
+	background-color:rgba(208, 205, 220, 0.19);
+}
+
+#submit-button {
+	margin-top: 15px;
+}
+
+.h2 {
+	    font-size: 36px;
+    color: #11B1F1;
+    font-family: Muli,'Helvetica Neue','Hiragino Sans GB','WenQuanYi Micro Hei','Microsoft Yahei',sans-serif !important;
+}
